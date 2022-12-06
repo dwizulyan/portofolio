@@ -1,0 +1,6 @@
+.gradient-custom{
+    background-image: linear-gradient(to right bottom, #432c7a, #523383, #623a8b, #714194, #80489c);
+}
+.linkWrapper{
+    transition: all ease-in-out .2s;
+}
